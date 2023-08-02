@@ -56,7 +56,7 @@ sudo apt-get install tmux
 
 Setup the project as follows:
 ```
-git clone XXXXX
+git clone https://github.com/CYDXYYJ/ASAP.git
 cd ASAP
 catkin_make
 source deve/setup.bash
