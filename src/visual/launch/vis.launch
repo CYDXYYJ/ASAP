@@ -1,0 +1,6 @@
+<launch>
+    <!-- 在rviz中显示-->
+    <node name="vis" pkg="visual" type="visual.py" output="screen"/> 
+    <!-- <node name="vis" pkg="visual" type="commu.py" output="screen"/>  -->
+    <node name="rviz" pkg="rviz" type="rviz" args="-d $(find visual)/ASSP.rviz" required="true" output="screen" />
+</launch>
