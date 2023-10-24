@@ -1,7 +1,8 @@
 
 # ASAP: Asynchronous Spatial Allocation Protocol for Heterogeneous Multi-Agent Trajectory Planning
 
-video: https://www.youtube.com/watch?v=qTtVinPomfs
+video (Youtube): https://www.youtube.com/watch?v=qTtVinPomfs
+or Bilibili: https://b23.tv/8ywUSl3
 
 ## Function
 
