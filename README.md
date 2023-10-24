@@ -4,6 +4,8 @@
 video (Youtube): https://www.youtube.com/watch?v=qTtVinPomfs
 or Bilibili: https://b23.tv/8ywUSl3
 
+paper: same name in arxiv
+
 ## Function
 
 In this package, we provide a multi-agent trajectory planning method for heterogeneous system.
